@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExpressionsToJS", "LinqExpressionsToJS\LinqExpressionsToJS.csproj", "{6CDA0EFF-1D88-420B-9DA0-8F36E1BB6B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExpressionsToJS.Tests", "LinqExpressionsToJS.Tests\LinqExpressionsToJS.Tests.csproj", "{C9F73696-AD26-471D-9AA4-90C637587257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDA0EFF-1D88-420B-9DA0-8F36E1BB6B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDA0EFF-1D88-420B-9DA0-8F36E1BB6B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDA0EFF-1D88-420B-9DA0-8F36E1BB6B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDA0EFF-1D88-420B-9DA0-8F36E1BB6B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F73696-AD26-471D-9AA4-90C637587257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F73696-AD26-471D-9AA4-90C637587257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F73696-AD26-471D-9AA4-90C637587257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F73696-AD26-471D-9AA4-90C637587257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
